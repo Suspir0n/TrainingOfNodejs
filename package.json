@@ -1,0 +1,14 @@
+{
+  "name": "zapbot",
+  "version": "1.0.0",
+  "description": "A application in Nodejs, creating a chatbot to whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test unit"
+  },
+  "author": "Evandro Silva",
+  "license": "ISC",
+  "dependencies": {
+    "sulla": "^2.3.14"
+  }
+}
